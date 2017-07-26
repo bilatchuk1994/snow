@@ -1,0 +1,9 @@
+@font-face{
+  font-family: "PlumbCondensed";
+  src: url("../font/Plumbcondensed/Plumbcondensed.eot");
+  src: url("../font/Plumbcondensed/Plumbcondensed.eot?iefix")format("embedde-open");
+  src: url("../font/Plumbcondensed/Plumbcondensed.woff") format("woff");
+  src: url("../font/Plumbcondensed/Plumbcondensed.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}

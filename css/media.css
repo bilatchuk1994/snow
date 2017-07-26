@@ -1,0 +1,144 @@
+/*==========  Desktop First Method  ==========*/
+
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (max-width : 1200px) {
+
+.some {
+    font-size: 19px;
+}
+
+.input-name {
+    width: 250px;
+}
+
+.input-name-2 {
+    width: 250px;
+}
+
+.number .info {
+    margin-bottom: 40px;
+}
+
+.contact p br {
+    display: none;
+}
+
+}
+
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width : 992px) {
+
+    .table {
+    margin-bottom: 30px;
+}
+.exceeded br {
+    display: none;
+}
+.input-name {
+    width: 100%;
+}
+
+.input-name-2 {
+    width: 100%;
+}
+}
+
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (max-width : 768px) {
+
+.exceeded br {
+    display: none;
+}
+
+.input-name {
+    width: 100%;
+}
+
+.input-name-2 {
+    width: 100%;
+}
+
+.table {
+    margin-bottom: 30px;
+}
+
+.about p br {
+    display: none;
+}
+
+.number .info {
+    width: 81%;
+}
+
+}
+
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width : 480px) {
+ .number .info {
+    width: 72%;
+}
+
+.title h4 {
+    margin-top: 40px;
+}
+
+.title h1 {
+    font-size: 38px;
+}
+
+.scroll img {
+    margin-top: 45px;
+}
+
+.blog {
+    padding: 94px 0 50px;
+}
+
+.contact {
+    padding: 50px 0 100px;
+}
+
+.footer-text br {
+    display: none;
+}
+
+.descrip br {
+    display: none;
+}
+
+.news-twitter p br {
+    display: none;
+}
+
+.news-twitter p {
+    margin-top: -19px;
+    margin-left: 25px;
+}
+
+.text-nature {
+    padding: 25px 30px 30px 30px;
+}
+
+}
+
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (max-width : 320px) {
+
+
+
+}
